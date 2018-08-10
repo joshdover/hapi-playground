@@ -1,0 +1,13 @@
+{
+  "name": "hapi-playground",
+  "version": "0.1",
+  "description": "Proof of concepts for hapi features",
+  "main": "index.js",
+  "repository": "git@github.com:joshdover/hapi-playground.git",
+  "author": "Josh Dover <me@joshdover.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.5.3",
+    "hapi-16": "npm:hapi@16.6.3"
+  }
+}
